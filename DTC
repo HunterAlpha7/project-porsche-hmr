@@ -1,0 +1,563 @@
+<!-- Formula E -->
+<div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Sebring -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/12_Hours_of_Sebring.svg" ><br>
+                                <b >Mobil 1 Twelve hours of Sebring</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                March 18<br>Sebring International Raceway
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_PipoDerani_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">BRA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/luis-felipe-derani/">Pipo Derani</a>
+                                </h4>
+                                Action Express Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_WhelenEngineering_988x252-443x113.png" alt="#31" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2022/01/21/2023_IWSC_SheldonvanderLinde_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">ZAF</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/sheldon-van-der-linde/">Sheldon Van Der Linde</a>
+                                </h4>
+                                BMW M Team RLL<br><br>BMW M Hybrid V8<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_BMWM_No25_TeamRLL_988x252-443x113.png" alt="#25" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_MathieuJaminet_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">FRA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/mathieu-jaminet/">Mathieu Jaminet</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>  
+                    </div> <!-- Sebring -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Long Beach-->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Acura_Grand_Prix_Long_Beach_logo.svg" ><br>
+                                <b >Acura Grand Prix of Long Beach</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">April 15<br>Long Beach, California
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_NickTandy_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-tandy/">Nick Tandy</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_ConnorDePhillippi_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >USA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/connor-de-phillippi/">Connor De Phillippi</a>
+                                </h4>
+                                BMW M Team RLL<br><br>BMW M Hybrid V8<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_BMWM_No25_TeamRLL_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_MattCampbell_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">AUS</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/matt-campbell/">Matt Campbell</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/02/2023_IWSC_PorschePenske_RoadAmerica_No7_988x252-443x113.png" alt="#07" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Long Beach -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Laguna Seca -->
+                        <div class="uk-card uk-card-default  uk-width-1-4"><!-- Laguna Seca -->
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/WeatherTech_Raceway_Laguna_Seca_logo.svg" ><br>
+                                <b >MOTUL Course de Monterey Powered By Hyundai</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                May 14<br>WeatherTech Raceway Laguna Seca
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/20/2023_IWSC_RengervanderZande_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >NLD</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/renger-van-der-zande/">Renger Van Der Zande</a>
+                                </h4>Cadillac Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2021/01/20/2023_IWSC_CadillacRacing_No01_988x252-443x113.png" alt="#01" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_NickTandy_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-tandy/">Nick Tandy</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_PipoDerani_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">BRA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/luis-felipe-derani/">Pipo Derani</a>
+                                </h4>
+                                Action Express Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_WhelenEngineering_988x252-443x113.png" alt="#31" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Laguna Seca -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Watkins Glen -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Six_hours_of_the_glen_logo.png" ><br>
+                                <b >Sahlen's Six Hours of the Glen</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                June 25<br>Watkins Glen International
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2022/01/21/2023_IWSC_NickYelloly_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-yelloly/">Nick Yelloly</a>
+                                </h4>
+                                BMW M Team RLL<br><br>BMW M Hybrid V8<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_JackAitken_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/jack-aitken/">Jack Aitken</a>
+                                </h4>
+                                Action Express Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_WhelenEngineering_988x252-443x113.png" alt="#31" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_TomBlomqvist_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/tom-blomqvist/">Tom Blomqvist</a>
+                                </h4>
+                                Meyer Shank Racing with Curb-Agajanian<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_MeyerShankRacing_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>                        
+                    </div> <!-- Watkins Glen -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Canadian Tire Mosport Park -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Canada-tire-Motorsport-Logo.png" ><br>
+                                <b >Chevrolet Grand Prix</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                July 9<br>Canadian Tire Motorsport Park
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_ColinBraun_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >USA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/colin-braun/">Colin Braun</a>
+                                </h4>
+                                Meyer Shank Racing with Curb-Agajanian<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_MeyerShankRacing_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_FilipeAlbuquerque_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">PRT</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/filipe-albuquerque/">Filipe Albuquerque</a>
+                                </h4>
+                                Wayne Taylor Racing with Andretti Autosport<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_KonicaMinoltaAcura_988x252-443x113.png" alt="#10" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2022/01/21/2023_IWSC_NickYelloly_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-yelloly/">Nick Yelloly</a>
+                                </h4>
+                                BMW M Team RLL<br><br>BMW M Hybrid V8<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Canadian Tire Mosport Park -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Lime Rock park BCHP -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Lime_Rock_Park_(logo).png" ><br>
+                                <b >FCP Euro Notheast Grand Prix</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                July 22<br>Lime Rock park
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/20/2023_IWSC_RengervanderZande_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >NLD</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/renger-van-der-zande/">Renger Van Der Zande</a>
+                                </h4>Cadillac Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2021/01/20/2023_IWSC_CadillacRacing_No01_988x252-443x113.png" alt="#01" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_TomBlomqvist_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/tom-blomqvist/">Tom Blomqvist</a>
+                                </h4>
+                                Meyer Shank Racing with Curb-Agajanian<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_MeyerShankRacing_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_JackAitken_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/jack-aitken/">Jack Aitken</a>
+                                </h4>
+                                Action Express Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_WhelenEngineering_988x252-443x113.png" alt="#31" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Lime Rock park BCHP -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Road America-->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Road_America_logo.svg" ><br>
+                                <b >IMSA SportsCar Weekend</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                August 6<br>Road America
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_MattCampbell_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">AUS</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/matt-campbell/">Matt Campbell</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/02/2023_IWSC_PorschePenske_RoadAmerica_No7_988x252-443x113.png" alt="#07" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_TomBlomqvist_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/tom-blomqvist/">Tom Blomqvist</a>
+                                </h4>
+                                Meyer Shank Racing with Curb-Agajanian<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_MeyerShankRacing_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_FilipeAlbuquerque_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">PRT</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/filipe-albuquerque/">Filipe Albuquerque</a>
+                                </h4>
+                                Wayne Taylor Racing with Andretti Autosport<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_KonicaMinoltaAcura_988x252-443x113.png" alt="#10" width="260">
+                            </div>
+                        </div>                        
+                    </div> <!-- Road America -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- VIR -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/GT_challenge_at_VIR.png" ><br>
+                                <b>Michelin GT Challenge at VIR</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                August 27<br>Virginia International Raceway
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/24/2022_IWSC_JackHawksworth_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTD PRO</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/jack-hawksworth/">Jack Hawksworth</a>
+                                </h4>Vasser Sullivan Racing<br><br>Lexus RC F GT3<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/22/2023_IWSC_VasserSullivan_No14_988x252-443x113.png" alt="#77" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2022/01/22/2023_IWSC_DanielJuncadella_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTD PRO</span>
+                                    <span class="uk-label">ESP</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/daniel-juncadella/">Daniel Juncadella</a>
+                                </h4>
+                                Proton Competition<br><br>Mercedes-AMG GT3 Evo<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/22/2023_IWSC_WeatherTechRacing_988x252-443x113.png" alt="#79" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/22/2023_IWSC_AntonioGarcia_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTD PRO</span>
+                                    <span class="uk-label">ESP</span>
+                            </div>
+
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/antonio-garcia/">Antonio Garcia</a>
+                                </h4>Corvette Racing<br><br>Chevrolet Corvette C8.R GTD<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/22/2023_IWSC_CorvetteRacing_988x252-443x113.png" alt="#03" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Virginia International Raceway -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Indianapolis -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Indianapolis_Motor_Speedway_logo.svg" ><br>
+                                <b >IMSA Battle on the Bricks</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                September 17<br>Indianapolis Motor Speedway
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_NickTandy_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-tandy/">Nick Tandy</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_MattCampbell_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">AUS</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/matt-campbell/">Matt Campbell</a>
+                                </h4>
+                                Porsche Penske Motorsport<br><br>Porsche 963<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/02/2023_IWSC_PorschePenske_RoadAmerica_No7_988x252-443x113.png" alt="#07" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2022/01/21/2023_IWSC_NickYelloly_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/nick-yelloly/">Nick Yelloly</a>
+                                </h4>
+                                BMW M Team RLL<br><br>BMW M Hybrid V8<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/07/02/2023_IWSC_PorschePenske_RoadAmerica_No6_988x252-443x113.png" alt="#06" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Indianapolis Motor Speedway -->
+
+                    <div class="uk-grid-match uk-flex-center uk-child-width-expand" uk-grid><!-- Road Atlanta -->
+                        <div class="uk-card uk-card-default  uk-width-1-4">
+                            <div class="uk-card-header uk-text-center">
+                                <img src="asset/Michelin_Raceway_Road_Atlanta_logo.svg" ><br>
+                                <b >Motul Petit Le Mans</b>
+                            </div>
+                            <div class="uk-card-body uk-text-center">
+                                October 14<br>Michelin Raceway Road Atlanta
+                            </div> 
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/21/2023_IWSC_TomBlomqvist_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label" >GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/tom-blomqvist/">Tom Blomqvist</a>
+                                </h4>
+                                Meyer Shank Racing with Curb-Agajanian<br><br>Acura ARX-06<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/21/2023_IWSC_MeyerShankRacing_988x252-443x113.png" alt="#60" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2019/09/20/2023_IWSC_SebastienBourdais_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTP</span>
+                                    <span class="uk-label">FRA</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/sebastien-bourdais/">Sebastien Bourdais</a>
+                                </h4>Cadillac Racing<br><br>Cadillac V-Series.R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2021/01/20/2023_IWSC_CadillacRacing_No01_988x252-443x113.png" alt="#01" width="260">
+                            </div>
+                        </div>
+                        <div class="uk-card uk-card-small  ">
+
+                            <div class="uk-card-media-top">
+                                    <img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/23/2023_IWSC_HarryTincknell_355x355-290x290.png" height="180" width="150" >
+                                    <span class="uk-label uk-label-warning">GTD</span>
+                                    <span class="uk-label">GBR</span>
+                            </div>
+                        
+                            <div class="uk-card-body">
+                                <h4 class="uk-card-title">
+                                    <a href="https://www.imsa.com/drivers/harry-tincknell/">Harry Tincknell</a>
+                                </h4>Wright Motorsports<br><br>Porsche 911 GT3 R<br><br><img src="https://www.imsa.com/wp-content/uploads/sites/32/2023/01/15/2023_IWSC_AORacing_Sebring_988x252-443x113.png" alt="#80" width="260">
+                            </div>
+                        </div>
+                    </div> <!-- Michelin Raceway Road Atlanta -->
